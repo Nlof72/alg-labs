@@ -1,0 +1,20 @@
+﻿  Laba3.cpp
+C:\Users\Nikita\Desktop\C++\laba3\Laba3\Laba3\Laba3.cpp(85,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba3\Laba3\Laba3\Laba3.cpp(50,28): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Nikita\Desktop\C++\laba3\Laba3\Laba3\Laba3.cpp(93,134): message : see reference to function template instantiation 'void TestFuncTime<main::<lambda_2>>(int,Func)' being compiled
+          with
+          [
+              Func=main::<lambda_2>
+          ]
+C:\Users\Nikita\Desktop\C++\laba3\Laba3\Laba3\Laba3.cpp(57,28): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  SortFunctions.cpp
+  Generating Code...
+  Laba3.vcxproj -> C:\Users\Nikita\Desktop\C++\laba3\Laba3\x64\Debug\Laba3.exe

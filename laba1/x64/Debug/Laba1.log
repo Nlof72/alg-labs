@@ -1,0 +1,5 @@
+﻿  Laba1.cpp
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1\Laba1.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1\Laba1.cpp(40,9): warning C4101: 'diedPeopleFromHungry': unreferenced local variable
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1\Laba1.cpp(42,11): warning C4101: 'percentDiedPeople': unreferenced local variable
+  Laba1.vcxproj -> C:\Users\Nikita\Desktop\C++\laba1\Laba1\x64\Debug\Laba1.exe

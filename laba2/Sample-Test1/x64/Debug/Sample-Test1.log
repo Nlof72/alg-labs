@@ -1,5 +1,4 @@
-﻿  pch.cpp
-  test.cpp
+﻿  test.cpp
 C:\Users\Nikita\Desktop\C++\laba2\Sample-Test1\test.cpp(42,3): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Nikita\Desktop\C++\laba2\Sample-Test1\test.cpp(59,3): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Sample-Test1.vcxproj -> C:\Users\Nikita\Desktop\C++\laba2\x64\Debug\Sample-Test1.exe

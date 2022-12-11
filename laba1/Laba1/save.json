@@ -1,0 +1,14 @@
+{
+    "acreCost": 17,
+    "arrivedPeopleNumber": 10,
+    "citizensNumber": 93,
+    "cityAcreSize": 1100,
+    "currentTurn": 10,
+    "destroyedByRats": 110,
+    "diedPeopleNumber": 0,
+    "hasPlague": false,
+    "producedWheatBushel": 2490,
+    "sumPercentDiedPeople": 0,
+    "wheatBushelAmount": 2992.0,
+    "wheatFromField": 3
+}

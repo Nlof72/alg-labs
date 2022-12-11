@@ -124,7 +124,7 @@ void Array<T>::Remove(int index) {
 		new (_elements + i) T(std::move(_elements[i + 1]));
 	}
 
-	_elements[_size-1].~T();
+	_elements[_size - 1].~T();
 
 	_size -= 1;
 }

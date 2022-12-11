@@ -1,0 +1,9 @@
+﻿  Laba1.cpp
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(127,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(257,58): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(269,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(272,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(309,86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(326,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\C++\laba1\Laba1\Laba1.cpp(327,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Laba1.vcxproj -> C:\Users\Nikita\Desktop\C++\laba1\x64\Debug\Laba1.exe

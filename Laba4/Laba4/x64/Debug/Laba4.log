@@ -1,0 +1,7 @@
+﻿  Laba4.cpp
+C:\Users\Nikita\Desktop\C++\Laba4\Laba4\Laba4.cpp(47,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\Laba4\Laba4\Laba4.cpp(62,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\Laba4\Laba4\Laba4.cpp(77,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\Laba4\Laba4\Laba4.cpp(92,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikita\Desktop\C++\Laba4\Laba4\Laba4.cpp(126,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Laba4.vcxproj -> C:\Users\Nikita\Desktop\C++\Laba4\x64\Debug\Laba4.exe
